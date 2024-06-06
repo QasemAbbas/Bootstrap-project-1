@@ -1,0 +1,45 @@
+body{
+     background-color: rgb(15, 23, 42);
+}
+
+#next_button{
+     background-color: red;
+     padding: 25px 30px;
+     border-radius: 5px;
+     opacity: 40%;
+}
+
+.head_color{
+     color: white;
+}
+.liner_gardian{
+     background: linear-gradient(90deg, #3e7fd9 2.34%, #5c3bd6 100.78%);
+     background-clip: text;
+     -webkit-text-fill-color: transparent;     
+}
+.text_justify{
+     text-align: justify;
+}
+
+.common_color {
+     background-color: rgb(15, 23, 42);
+}
+
+.cmmon_text {
+     color: rgb(156, 163, 175);
+}
+
+.card_border{
+     border: none;
+}
+
+.eshan{
+     border: 5px solid tomato;
+     border-radius: 10px;
+}
+
+.card_bordr{
+border: 1px solid grey;
+border-radius: 10px;
+}
+
